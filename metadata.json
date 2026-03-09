@@ -1,0 +1,5 @@
+{
+  "name": "DevFlow Visualizer",
+  "description": "An AI-powered tool that maps out codebase architecture visually using Gemini and D3.js, helping developers onboard faster.",
+  "requestFramePermissions": []
+}
